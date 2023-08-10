@@ -1,0 +1,2 @@
+# randome
+random quote generator
